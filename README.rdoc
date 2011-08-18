@@ -1,6 +1,4 @@
-= Bitcoin Central - Options
-
-# This a work in progress, and not yet ready for any installation. Use for reference only.
+= Bitcoin Central - Options (This a work in progress, and not yet ready for any installation. Use for reference only.)
 
 
 This is an Extension (Rails Engine) for Bitcoin Central project at https://github.com/davout/bitcoin-central
