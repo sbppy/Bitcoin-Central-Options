@@ -1,0 +1,26 @@
+= Bitcoin Central - Options
+
+# This a work in progress, and not yet ready for any installation. Use for reference only.
+
+
+This is an Extension (Rails Engine) for Bitcoin Central project at https://github.com/davout/bitcoin-central
+It adds support for trading BTC options to a Bitcoin Central based application
+
+
+
+# Installation
+    * Add bitcoin-central-options gem to Bitcoin Central Application's Gemfile
+
+        gem 'bitcoin-central-options', :git => 'git://github.com/slavix/Bitcoin-Central-Options.git'
+
+    * Install bundle
+        bundle install
+    * Run migrations
+        rake migrate
+
+    That should be it.
+
+# License
+AGPL License. http://www.gnu.org/licenses/agpl.html
+
+Copyright 2011 Slava Mikerin
